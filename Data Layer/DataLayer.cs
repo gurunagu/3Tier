@@ -7,6 +7,6 @@ namespace Data_Layer
 {
     public class DataLayer
     {
-        public static string s = string.Empty;
+        public static string StoreUserData = string.Empty;
     }
 }
